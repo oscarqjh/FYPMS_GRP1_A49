@@ -11,6 +11,9 @@
 - [Khanh Nguyen](https://github.com/ngk2305)
 ---
 
+### Documentation
+Javadoc for this project is available [here](https://oscarqjh.github.io/NTU_SC2002_FYPMS/).
+
 ### Environment Set up
 
 This project is developed with [Java(TM) SE Runtime Environment (build 20+36-2344)](https://www.oracle.com/java/technologies/downloads/) and tested on [Visual Studio Code](https://code.visualstudio.com/).
