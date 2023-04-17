@@ -9,10 +9,11 @@
 - [Zhaoding Chew](https://github.com/ZDchew)
 - [Prateek Potdar](https://github.com/PRATEEKA001)
 - [Khanh Nguyen](https://github.com/ngk2305)
+
 ---
 
 ### Documentation
-Javadoc for this project is available [here](https://oscarqjh.github.io/NTU_SC2002_FYPMS/).
+Javadoc for this project is available <a href="https://oscarqjh.github.io/NTU_SC2002_FYPMS/" target="_blank">here</a>.
 
 ### Environment Set up
 
